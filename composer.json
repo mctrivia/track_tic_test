@@ -1,0 +1,21 @@
+{
+  "name": "tracktik/electronics",
+  "description": "test program not for actual use",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Matthew Cornelisse",
+      "email": "squarerootofnegativeone@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.1",
+    "phpunit/phpunit": "^9.5.20"
+  },
+  "autoload": {
+    "psr-4": {
+      "tracktik\\electronics\\": "src"
+    }
+  },
+  "license": "proprietary"
+}
